@@ -30,8 +30,8 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        String s = "rat";
-        String t = "car";
+        String s = "anagram";
+        String t = "nagaram";
         Solution result = new Solution();
         System.out.println(result.isAnagram(s,t));
     }
