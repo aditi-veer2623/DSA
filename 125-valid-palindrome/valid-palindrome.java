@@ -13,7 +13,7 @@ class Solution {
     return true;
     }
     public static void main(String[] args) {
-        String s = "race a car";
+        String s = "";
         Solution result = new Solution();
         System.out.println(result.isPalindrome(s));
     }
